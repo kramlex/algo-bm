@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/algo-bm/static/css/main.2f8ad58a.chunk.css",
+    "main.js": "/algo-bm/static/js/main.6b9b522a.chunk.js",
+    "main.js.map": "/algo-bm/static/js/main.6b9b522a.chunk.js.map",
+    "runtime-main.js": "/algo-bm/static/js/runtime-main.a6bc3cdf.js",
+    "runtime-main.js.map": "/algo-bm/static/js/runtime-main.a6bc3cdf.js.map",
+    "static/css/2.e10332d9.chunk.css": "/algo-bm/static/css/2.e10332d9.chunk.css",
+    "static/js/2.1bc0713c.chunk.js": "/algo-bm/static/js/2.1bc0713c.chunk.js",
+    "static/js/2.1bc0713c.chunk.js.map": "/algo-bm/static/js/2.1bc0713c.chunk.js.map",
+    "index.html": "/algo-bm/index.html",
+    "precache-manifest.f4be5b92683a9896560ae343a87331fa.js": "/algo-bm/precache-manifest.f4be5b92683a9896560ae343a87331fa.js",
+    "service-worker.js": "/algo-bm/service-worker.js",
+    "static/css/2.e10332d9.chunk.css.map": "/algo-bm/static/css/2.e10332d9.chunk.css.map",
+    "static/css/main.2f8ad58a.chunk.css.map": "/algo-bm/static/css/main.2f8ad58a.chunk.css.map",
+    "static/js/2.1bc0713c.chunk.js.LICENSE.txt": "/algo-bm/static/js/2.1bc0713c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6bc3cdf.js",
+    "static/css/2.e10332d9.chunk.css",
+    "static/js/2.1bc0713c.chunk.js",
+    "static/css/main.2f8ad58a.chunk.css",
+    "static/js/main.6b9b522a.chunk.js"
+  ]
+}
